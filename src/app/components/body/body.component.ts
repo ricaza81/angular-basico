@@ -9,4 +9,9 @@ import { Component } from '@angular/core';
 
 export class BodyComponent{
 
+	Frase: any = {
+		mensaje: 'este es un mensaje',
+		autor: 'RicardoZ'
+	}
+
 }
